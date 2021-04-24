@@ -2,18 +2,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Title of the document</title>
+
 </head>
 
 <body>
-Example on how to use the SD card with arduino uno. 
-The ways of using SD card is divided into seperated functions: 
-1-initialize SD card
-2-Write in a file
-3-Read from a file
-4-Creat/Remove files
-5-Display the files exists in the SD card & their sizes.
-Make sure to stick to the connection below in the picture to avoid wiring problems
+  <p>Example on how to use the SD card with arduino uno. <br>
+The ways of using SD card is divided into seperated functions: <br>
+1-initialize SD card <br>
+2-Write in a file <br>
+3-Read from a file <br>
+4-Creat/Remove files <br>
+5-Display the files exists in the SD card & their sizes. <br>
+Make sure to stick to the connection below in the picture to avoid wiring problems <br></p>
 <img src="">
 </body>
 
