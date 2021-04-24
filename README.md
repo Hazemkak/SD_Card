@@ -11,8 +11,8 @@ The ways of using SD card is divided into seperated functions: <br>
 1-initialize SD card <br>
 2-Write in a file <br>
 3-Read from a file <br>
-4-Creat/Remove files <br>
-5-Display the files exists in the SD card & their sizes. <br>
+4-Create/Remove files <br>
+5-Display the files exists in the SD card & their sizes in the chip. <br>
 Important Notes: <br>
 -Make the card image file of SD card this file download it from here https://drive.google.com/file/d/1ldVje7IIKR5vdbKLheTjqx8IEBZ6Xsjw/view <br>
 -Make sure to stick to the connection below in the picture to avoid wiring problems <br></p>
